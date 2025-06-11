@@ -1,0 +1,1 @@
+## This machine learning project is a end to end on how to properly setup environment, Data Ingestion, Data Transformation, Training model, Evaluation, and Deployment
