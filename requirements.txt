@@ -1,0 +1,7 @@
+setuptools
+pandas
+numpy
+seaborn
+matplotlib
+scikit-learn
+-e .
